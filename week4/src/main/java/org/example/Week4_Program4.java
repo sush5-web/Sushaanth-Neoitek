@@ -1,3 +1,5 @@
+package org.example;
+
 import java.util.Scanner;
 
 public class Week4_Program4 {
