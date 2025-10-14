@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class Week2 {
+public class Week2_Program2 {
 
 
     public void showPrimitiveDataTypes() {
@@ -77,7 +77,7 @@ public class Week2 {
 
 
     public static void main(String[] args) {
-        Week2 obj = new Week2();
+        Week2_Program2 obj = new Week2_Program2();
 
         obj.showPrimitiveDataTypes();
         obj.typeConversionDemo();

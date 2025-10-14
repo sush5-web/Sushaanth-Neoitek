@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Week4_Program4 {
     public void factorialProgram() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number for factorial: ");
@@ -80,7 +80,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        Main obj = new Main();
+        Week4_Program4 obj = new Week4_Program4();
         obj.factorialProgram();
         obj.maxOfThreeProgram();
         obj.reverseArrayProgram();

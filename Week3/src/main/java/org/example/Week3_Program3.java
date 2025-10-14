@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class Main {
+public class Week3_Program3 {
 
     public static void checkEvenOdd(int number) {
         if (number % 2 == 0) {
